@@ -7,3 +7,5 @@ I am Aayush garg
 python
 Git 
 Github
+
+-In upcoming time i will also upskill myself in DSA,WEB DEV,AI TOOLS 
