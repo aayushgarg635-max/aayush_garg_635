@@ -8,4 +8,7 @@ python
 Git 
 Github
 
--In upcoming time i will also upskill myself in DSA,WEB DEV,AI TOOLS 
+-In upcoming time i will also upskill myself in 
+- Data structures and algorithims
+- web dev in HTML/CSS/JAVASCRIPT TYPESCRIPT
+- AI tools like CHATGPT/CLAUDE/PERPLEXITY 
