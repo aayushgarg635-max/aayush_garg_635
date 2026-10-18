@@ -4,11 +4,12 @@ I am Aayush garg
 -currently learning programming in python and c
 
 ###
-python
-Git 
-Github
+-python
+-Git 
+-Github
 
 -In upcoming time i will also upskill myself in 
 - Data structures and algorithims
 - web dev in HTML/CSS/JAVASCRIPT TYPESCRIPT
-- AI tools like CHATGPT/CLAUDE/PERPLEXITY 
+- AI tools like CHATGPT/CLAUDE/PERPLEXITY
+- and rust too 
