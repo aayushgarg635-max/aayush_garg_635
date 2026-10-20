@@ -10,6 +10,6 @@ I am Aayush garg
 
 -In upcoming time i will also upskill myself in 
 - Data structures and algorithims
-- web dev in HTML/CSS/JAVASCRIPT TYPESCRIPT
-- AI tools like CHATGPT/CLAUDE/PERPLEXITY/NOTEBOOKLM
+- web dev in HTML/CSS/JAVASCRIPT/TYPESCRIPT
+- AI tools like CHATGPT/CLAUDE/PERPLEXITY/NOTEBOOKLM(for study)
 - rust and golang
