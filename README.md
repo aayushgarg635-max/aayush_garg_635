@@ -13,4 +13,10 @@ I am Aayush garg
 - web dev in HTML/CSS/JAVASCRIPT/TYPESCRIPT
 - AI tools like CHATGPT/CLAUDE/PERPLEXITY/NOTEBOOKLM(for study)
 - rust and golang
-I am a GATE aspirant too 
+I am a GATE aspirant so i am also preparing for
+- core cs topics like
+- - dbms
+  - os
+  - -cn
+  - toc etc
+with aptitude and mathematics as well
