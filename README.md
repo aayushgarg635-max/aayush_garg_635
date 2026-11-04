@@ -4,9 +4,10 @@ I am Aayush garg
 -currently learning programming in python and c
 
 ###
--python
--Git 
--Github
+- python
+- Git 
+- Github
+- VS code
 
 -In upcoming time i will also upskill myself in 
 - Data structures and algorithims
