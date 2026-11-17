@@ -8,7 +8,7 @@ I am Aayush garg
 - Git 
 - Github
 - VS code
-- Harry course
+- Harry course(code with harry)
 
 -In upcoming time i will also upskill myself in 
 - Data structures and algorithims
