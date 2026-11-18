@@ -16,10 +16,10 @@ I am Aayush garg
 - AI tools like CHATGPT/CLAUDE/PERPLEXITY/NOTEBOOKLM(for study)
 - rust and golang
 I am a GATE aspirant so i am also preparing for
-- core cs topics like
-- - dbms
-  - os
-  - -cn
-  - toc etc
+- core computer science topics like
+- - DBMS
+  - OS
+  - CN
+  - TOC etc
 with aptitude and mathematics as well
 I am currently using harry one shots and courses for prograaming i will later use it for web development course.
